@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehboob Hussain</h1>
+<h1 align="center">Hi 👋, I'm Aadil Mansoob Mir</h1>
 <!-- [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)] -->
 <h3 align="center">A passionate Seeker , Curious learner & Driven Frontend Developer</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript,React,Nextjs ,Tailwind CSS,TypeScript, Web2.0**
 
-- 📫 How to reach me **mehbobhussain19@gmail.com**
+- 📫 How to reach me **aadilmansoobmir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
